@@ -9,10 +9,9 @@ body {
 }
 
 div {
-  width: 100%;
   margin-top: 720px;
   background: rgba( 1, 1, 1, 0.7 );
-  padding: 2em;
+  padding: 2em 4em;
 }
 
 h1 {
